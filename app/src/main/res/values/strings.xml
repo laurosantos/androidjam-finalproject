@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RGB</string>
+    <string name="hexadecimal_txt">O <b>RGB</b> representado no formato Hexadecimal também é conhecido como <b>Tripleto hexadecimal</b> que é um número de seis dígitos formado por três bytes em hexadecimal (0-9 a-f).</string>
+    <string name="css_txt">O <b>RGB</b> pode ser representado no <b>CSS</b> das seguintes maneiras:
+\nFormato Hexadecimal EX. #FFFFFF
+\nFormato RGB rbg(255,255,255)
+\nFormato RGB com alpha rgba(255,255,255,1)</string>
+</resources>
